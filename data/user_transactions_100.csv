@@ -1,0 +1,101 @@
+user_id,email,country,signup_date,deposit_amount,withdrawal_amount,login_count_last_7d,device_id,is_flagged
+1001,wsoto@yahoo.com,Sweden,2025-03-22,767.4,673.71,4,ce36445a-7806-4e98-902b-cec4dccc3f49,0
+1002,kyle61@yahoo.com,UK,2025-05-17,631.44,540.74,3,ef176d86-d414-467e-8eee-43edc34c59b6,0
+1003,uflores@gmail.com,Germany,2025-03-13,554.82,474.54,7,136a2ed3-bb11-4aa0-926b-ac4e955d190e,0
+1004,joseph81@aol.com,UK,2025-05-03,298.4,288.81,1,fd6e7845-a712-411d-bad7-9b7a855f64af,0
+1005,nmeza@aol.com,Germany,2025-03-15,406.23,357.93,11,b323028c-0d57-4746-ae71-f3c902865dfb,0
+1006,williamblanchard@yahoo.com,Sweden,2025-06-02,441.93,406.04,9,cc79b434-99f2-4eca-9f40-c2234981732f,0
+1007,jason01@aol.com,Sweden,2025-04-05,582.61,608.61,13,d1d55704-eb62-4a39-af34-4e74402f6202,0
+1008,pbailey@protonmail.com,Sweden,2025-03-25,363.86,355.03,12,c6061474-f1c7-4598-a246-1e60bf0df69a,0
+1009,slindsey@gmail.com,UK,2025-05-23,734.11,630.72,8,f20fa1c0-759d-4226-8e51-68440932aa2a,0
+1010,derek06@yahoo.com,South Africa,2025-05-27,869.79,890.05,13,7efaf927-7743-43fa-b417-a64bc04113ee,0
+1011,dave40@aol.com,South Africa,2025-04-30,672.12,620.34,12,90e978a4-7254-4bbf-a3fa-6c499ccdcbbf,0
+1012,ljohnson@gmail.com,South Africa,2025-03-23,703.16,696.38,3,01203d33-5260-4895-ae96-71042938e973,0
+1013,melissa32@gmail.com,UK,2025-03-09,580.73,522.05,15,39dc969d-b672-463c-bfeb-da415549f15c,0
+1014,hendersonjonathan@outlook.com,Norway,2025-04-11,990.57,968.78,18,7dd3363c-e234-4a12-88b0-8fa37a7b2ed9,0
+1015,taylor19@outlook.com,Germany,2025-04-16,858.57,863.03,8,b6353d83-7b33-473f-8082-ad64e3cbce98,0
+1016,ysmith@outlook.com,Sweden,2025-03-29,461.05,398.0,19,1bcdba19-80f7-4482-af29-dfebc0aeaef9,0
+1017,kponce@gmail.com,South Africa,2025-03-13,689.89,640.99,15,313cc8fb-9d75-49ea-ad15-5d1891e7d0b1,0
+1018,qwebb@outlook.com,Germany,2025-05-30,225.67,225.44,18,a89a287d-bd20-46f5-a584-e46afde3f5f2,0
+1019,pnelson@protonmail.com,South Africa,2025-05-05,485.59,469.42,12,1c312666-4d8c-488a-a7a9-faf966042eec,0
+1020,zmoore@gmail.com,Germany,2025-05-28,558.57,484.94,2,f4dd089c-4b07-4949-bc7b-1dbf46c932a5,0
+1021,eddieramirez@gmail.com,Sweden,2025-03-19,664.7,670.29,14,17ee93d2-55b7-4619-9cde-7f911b33b850,0
+1022,pscott@yahoo.com,UK,2025-03-21,446.29,432.53,15,168264f2-2297-4a86-882c-b299c39f71d1,0
+1023,iavila@outlook.com,UK,2025-04-11,973.97,995.55,1,4d7537f0-320f-4024-bfbf-19e927d4c79f,0
+1024,joelhunter@protonmail.com,Sweden,2025-03-11,775.79,778.68,11,16e46f02-794f-439f-b30f-cb58163951fb,0
+1025,guerratimothy@outlook.com,Sweden,2025-04-06,491.29,462.18,9,034ae458-03b6-4268-9a9b-db1677d7f180,0
+1026,chavezlori@gmail.com,UK,2025-03-08,556.91,485.23,10,269e9996-7ec5-4981-bebf-add264e323ae,0
+1027,william84@protonmail.com,UK,2025-04-20,279.02,258.03,6,ef8eef1c-16e8-4b19-8970-2044b185ff1b,0
+1028,rodriguezkenneth@protonmail.com,UK,2025-04-23,926.64,898.65,16,a6acbc24-8efe-492d-86a2-a525287a976f,0
+1029,valerie49@yahoo.com,Sweden,2025-03-17,936.19,951.48,10,92035556-d578-4fa8-b509-d2023eb073a7,0
+1030,scott06@yahoo.com,Germany,2025-04-29,316.78,305.21,3,232cedbd-0d3d-4fb0-84b5-c6399a94cc50,0
+1031,johnmiller@aol.com,Sweden,2025-04-18,834.42,872.47,18,fb7f907c-14c9-4ad3-a97c-0161f8256ade,0
+1032,perrygregory@gmail.com,Germany,2025-05-05,693.78,721.09,6,969afd82-dcaf-4627-94e6-2e14a368e9c3,0
+1033,allenwalker@protonmail.com,South Africa,2025-05-05,885.19,827.32,7,a1137c4a-e89a-48af-93bb-e19e2311ebb3,0
+1034,fmcknight@gmail.com,UK,2025-03-11,741.65,689.59,12,35ef876e-06ed-4e95-afe1-461f331db7f0,0
+1035,tjackson@protonmail.com,Norway,2025-04-21,506.34,455.49,3,c69f5fb9-8007-454e-ab69-f50549c68fad,0
+1036,tiffanyhernandez@yahoo.com,South Africa,2025-05-26,629.48,564.03,8,9765fb8e-e33c-45ac-9cf7-ba66fcf4694e,0
+1037,andre51@yahoo.com,Sweden,2025-04-22,737.06,88.61,2,85c361dc-84c3-4151-a1de-f9c2ba39e3b4,0
+1038,stacycarter@yahoo.com,South Africa,2025-05-21,562.74,509.67,16,aeeb82fe-3544-44e4-887f-65f5ecf31a8c,0
+1039,alexanderlopez@protonmail.com,Germany,2025-03-29,219.08,227.21,19,4a98ad8b-02a3-4f50-a61c-fb8c2200a459,0
+1040,laurahall@aol.com,UK,2025-05-28,318.7,301.04,14,b02bc16d-083b-47ca-b4fe-b449dee166ff,0
+1041,qsutton@yahoo.com,Germany,2025-03-08,187.24,175.3,14,45a25a35-c5b9-49f4-88bc-c9d076047b80,0
+1042,friedmanmarie@aol.com,Norway,2025-04-22,877.45,755.34,4,8e13c7d8-289d-4e2a-966a-4424c84d88df,0
+1043,brownwendy@aol.com,Sweden,2025-05-01,755.39,763.03,4,a7fda9dc-bc7b-4cd2-80ce-fa6f0a7a6f5f,0
+1044,mary60@gmail.com,Germany,2025-05-17,271.19,254.84,14,dca382ee-d52f-4b8c-a549-822cc8b5eed6,0
+1045,yhunt@outlook.com,Germany,2025-04-30,516.37,529.23,3,d0daedd4-dd10-4d25-94ee-f6f2d351c99e,0
+1046,ejones@protonmail.com,Norway,2025-03-11,188.12,184.44,18,d9652dfe-e91a-4842-9ed1-68d3b315f344,0
+1047,ythompson@yahoo.com,Sweden,2025-04-26,933.73,824.73,16,25a49718-b700-472d-bfad-c1eb506604e2,0
+1048,austinnicholas@gmail.com,Norway,2025-05-30,878.19,904.96,6,34d0d524-8631-4d4e-a759-d982293ecac7,0
+1049,obowman@yahoo.com,Norway,2025-04-13,986.78,891.1,15,6131c1e4-e8e2-422e-8f9e-dcbaa1f08acf,0
+1050,millerjoseph@aol.com,South Africa,2025-05-14,726.93,724.1,18,75427136-6dc8-4f14-96b6-89cd072a89d9,0
+1051,rebeccaaguirre@gmail.com,Norway,2025-03-10,270.91,242.07,2,76691622-972b-4cb2-b14f-5613f2eea54e,0
+1052,mhamilton@protonmail.com,UK,2025-04-07,154.86,141.34,2,fc9f76b8-828d-46af-b908-9451ec7b96ec,0
+1053,bradley71@aol.com,UK,2025-03-16,552.57,563.92,6,cfe024fc-0849-4d05-931c-bf117da5e9cc,0
+1054,zchan@protonmail.com,Sweden,2025-03-15,172.1,152.68,20,ed7b0fc4-7e9d-482d-899a-0c9cc358d2a2,0
+1055,kathryn49@gmail.com,Sweden,2025-04-03,463.4,481.16,19,2eb1f421-9acc-48cf-a058-95e409bef34c,0
+1056,johnsondana@protonmail.com,Germany,2025-04-25,635.07,618.48,14,341956a4-2a05-41b3-a7a6-2063e65a0c72,0
+1057,butlerdavid@protonmail.com,UK,2025-05-26,570.5,591.57,7,ad409b3e-ec22-4e7c-a7d4-4f7cb5f07861,0
+1058,mendezkayla@gmail.com,South Africa,2025-05-10,339.05,297.07,10,38cc80cb-c2a3-42c0-9176-dc4eeb8a04a1,0
+1059,steven46@outlook.com,Norway,2025-04-03,936.12,970.89,1,b56d7a0a-1151-449a-b893-ea2f98e6bc34,0
+1060,suttonrobert@protonmail.com,Norway,2025-04-20,998.61,1047.76,3,f8661ed2-0d07-4a30-af5c-6859816ff2df,0
+1061,james30@gmail.com,UK,2025-04-06,555.3,486.72,12,7e78aed8-aad5-4750-b6bf-add62dfd15f6,0
+1062,edwinburke@gmail.com,Sweden,2025-03-17,432.57,381.33,18,e324fdf5-cc01-4b31-b6f1-57cbaf487515,0
+1063,hernandezsteven@protonmail.com,South Africa,2025-03-26,985.47,996.72,17,95b25fa1-734a-4f83-84f6-295356fa595d,0
+1064,wsalazar@protonmail.com,Sweden,2025-05-15,369.44,363.04,5,ba00e313-b0b7-4bb3-875d-fe78e297eee6,0
+1065,josephjohnson@yahoo.com,South Africa,2025-05-13,900.74,899.37,5,1d2e3b7d-ed63-4895-a54a-35aad09ab426,0
+1066,wyattjeffrey@outlook.com,South Africa,2025-04-24,644.35,640.18,7,74c277c4-5ef1-4caf-b2d8-4eb6c3570f59,0
+1067,dylan62@protonmail.com,South Africa,2025-05-31,539.68,556.45,2,ecf63091-6224-4540-a232-92061d08fa20,0
+1068,amy35@aol.com,Sweden,2025-05-05,846.41,726.91,11,3a26ff1c-c3b3-4604-b28d-ec4bf43920c0,0
+1069,edwardbarnes@outlook.com,Germany,2025-06-01,245.42,230.29,14,6b72ac55-21bc-4ae3-a7c7-1c2cc31c9ce6,0
+1070,nwalker@yahoo.com,UK,2025-05-08,200.69,208.52,5,821cbba4-1a22-4bb0-aa82-599c26bf7fd7,0
+1071,wilsonamber@yahoo.com,UK,2025-04-23,851.14,822.63,5,bc205d87-3ea4-4cbe-8f4d-8ddba2e494db,0
+1072,zsmith@gmail.com,Norway,2025-05-19,137.65,127.04,2,710aaadf-7fcb-405c-8a33-06565670bbaa,0
+1073,pmorales@gmail.com,South Africa,2025-05-06,713.86,702.0,12,9cad0209-7b5a-4002-9333-333bd2eb0903,0
+1074,vasquezcarol@aol.com,UK,2025-05-28,976.45,976.35,8,c3eb735f-5924-4ac7-b353-68e7fb6e77b0,0
+1075,sbrown@gmail.com,Germany,2025-03-24,893.27,763.71,11,f4730cfb-808d-4786-b417-1c9dbd34f950,0
+1076,hayessarah@gmail.com,Norway,2025-04-01,340.13,342.67,4,241786e3-1a2a-4695-97a8-d0040719600b,0
+1077,hbowers@yahoo.com,Norway,2025-04-26,872.73,780.65,15,2f37be36-5470-4af1-91e6-ebd8c537aae5,0
+1078,pearsonjulie@outlook.com,South Africa,2025-03-08,838.48,858.83,8,5d1124bb-f762-4939-83d3-358f1a3218b5,0
+1079,maria00@gmail.com,Sweden,2025-03-12,458.62,415.38,3,2b555aea-2417-40a0-b63f-5f96384605c0,0
+1080,pschaefer@outlook.com,South Africa,2025-04-13,677.33,629.87,18,5ca4b0b6-01bd-4e3a-b9ed-f38054f1385f,0
+1081,mendozarussell@yahoo.com,South Africa,2025-04-12,203.81,212.79,6,6e26916e-d6a0-43c8-a132-68f88eb6fbee,0
+1082,gpope@outlook.com,UK,2025-05-02,134.43,130.3,12,c1acc1a4-9dfb-4897-8c0a-792e44825367,0
+1083,kennedybrittney@aol.com,South Africa,2025-03-08,645.59,614.79,13,503fb8a9-153f-4729-aa94-46384480099e,0
+1084,xowens@gmail.com,UK,2025-03-12,329.25,326.54,1,7fc091f1-b7cd-4690-a7b0-99e7c73208f4,0
+1085,joe29@protonmail.com,UK,2025-04-16,718.17,745.5,7,c847b89f-3219-4679-8c44-3eecff7dae2f,0
+1086,alyssa35@aol.com,South Africa,2025-05-31,162.98,160.18,11,5735ac60-9609-4557-803f-9758e76bd0f1,0
+1087,fsullivan@outlook.com,UK,2025-05-25,697.05,609.87,10,46b3ea20-ebcd-4a9e-8609-741c57b19439,0
+1088,suareznoah@outlook.com,UK,2025-03-30,700.2,640.85,10,b3269c46-95f2-4e30-9c72-a588f3f29142,0
+1089,wkelley@gmail.com,UK,2025-05-13,272.66,268.02,13,ffaf302b-db7a-4a08-a957-41eb4c6359f0,0
+1090,rarias@protonmail.com,Germany,2025-03-10,612.19,570.08,1,a6efa694-2feb-4862-9be2-b7c79f00befb,0
+1091,larsonjoshua@outlook.com,South Africa,2025-05-19,289.16,291.23,20,81e9a533-a25b-4f7b-8c09-3eb5d8d02cbd,0
+1092,burnssharon@aol.com,South Africa,2025-05-13,497.61,490.21,17,59519167-1d4a-4cc3-bfdb-83b5d6ddc8ab,0
+1093,patty51@gmail.com,Norway,2025-05-15,692.97,628.36,20,9e8abda9-c97c-4cda-9245-6adda10b92f8,0
+1094,gbeasley@yahoo.com,South Africa,2025-06-03,836.58,836.77,10,361f1a20-ae22-432a-a942-6ca927b7cb47,0
+1095,blloyd@gmail.com,Germany,2025-04-27,232.62,199.88,16,6ea7c2c2-cb57-4928-844b-850befd9333e,0
+1096,nwilliams@yahoo.com,UK,2025-05-17,509.87,523.75,19,919d5677-fd28-494f-a7dc-e506d290dde2,0
+1097,ewalters@aol.com,Germany,2025-04-01,544.94,489.79,1,7c51d223-7db5-4963-a54d-e3cb25dd5765,0
+1098,hernandezmartin@aol.com,Sweden,2025-05-31,296.96,300.17,17,431bca9d-d3a6-46ba-8165-df5c1dcc33ff,0
+1099,ashleyherman@yahoo.com,Norway,2025-03-18,601.67,621.82,4,b738151e-996d-4860-a5f6-20eaa0472f22,0
+1100,johnsonjames@gmail.com,Norway,2025-05-06,821.27,807.73,18,ffc11d37-0002-4699-ae25-e3ef91758fd6,0
