@@ -1,0 +1,6 @@
+user_id,email,country,signup_date,deposit_amount,withdrawal_amount,login_count_last_7d,device_id,is_flagged
+1001,john88@yahoo.com,Sweden,2024-11-01,500.0,490.0,14,device001,0
+1002,sam77@gmail.com,Germany,2024-10-21,200.0,180.0,5,device002,0
+1003,lisa33@yahoo.com,Sweden,2024-11-03,700.0,690.0,11,device003,0
+1004,emma44@outlook.com,Sweden,2024-10-29,150.0,140.0,9,device004,0
+1005,ralph99@yahoo.com,Sweden,2024-11-02,900.0,890.0,7,device005,0
