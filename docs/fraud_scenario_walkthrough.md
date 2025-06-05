@@ -1,53 +1,49 @@
-# 🎯 Fraud Scenario Walkthrough – Online Gambling Syndicate
+🎯 Fraud Scenario Walkthrough – Online Gambling Syndicate
 
-## 🔍 Background
-A fraud syndicate was identified targeting the online gambling platform through fake account registrations and suspicious transactions.
+🔍 Background
+A fraud syndicate was identified targeting the online gambling platform by exploiting loopholes in deposit and withdrawal behavior. This simulation demonstrates how fraud analysts adapt detection rules in real time.
 
-## 📌 Detection Strategy
-To contain the issue, a temporary SQL-based flagging rule was implemented.
+🧰 Setup & Simulation
 
----
+Data Source: Mock user transactions created using Python and Faker
 
-## 🧪 Stage 1: Initial Rule
-Accounts were flagged based on:
-- Rapid deposit and withdrawal behavior
-- Abnormal login patterns
+Platform: Simulated in Jupyter (Google Colab) using CSV + SQL rule application
 
-**Result:**  
-Too many false positives, overwhelming the investigation team.
+Purpose: To showcase practical fraud detection logic and Python data-generation skills
 
----
+🧪 Stage 1: Initial Rule
+Accounts were flagged if:
 
-## 🛂 Stage 2: Geographic Filter
-Swedish addresses were identified as a common trait.
+Deposits were greater than 500
 
-**SQL Rule Updated:**  
-Only apply logic to accounts with a Swedish-registered address.
+Withdrawals were less than 98% of deposit
 
-**Impact:**  
-Reduced workload, but still high number of irrelevant flags.
+Result:
+⚠️ Flagged 33 accounts — too many false positives, creating unnecessary workload.
 
----
+🛂 Stage 2: Geographic Filter
+Analysis revealed that all suspicious accounts originated from Sweden.
 
-## 📧 Stage 3: Email Domain Refinement
-Further analysis revealed most suspicious accounts used **Yahoo** emails.
+SQL Rule Updated: Added AND country = 'Sweden'
 
-**SQL Rule Updated Again:**  
-Added filter for `@yahoo.com` email addresses.
+Result:
+✅ Reduced to 4 flagged users — still some irrelevant matches.
 
-**Impact:**  
-Workload dropped to manageable levels. Syndicate contained.
+📧 Stage 3: Email Domain Refinement
+Further review showed these accounts used Yahoo email addresses.
 
----
+SQL Rule Finalized: Added AND email LIKE '%@yahoo.com'
 
-## ✅ Final Action:
-- SAR (Suspicious Activity Report) filed
-- SQL rule **disabled** to prevent long-term false positives
+Result:
+✅ Final list dropped to 3 accounts — manageable and focused.
 
----
+✅ Outcome
 
-## 🔁 Key Lessons
-- Layering rules improves precision
-- High-sensitivity logic must be time-limited
-- SQL + Python can work together to balance detection and workload
+Syndicate successfully simulated and contained
+
+Final logic can be deactivated once threat subsides
+
+Demonstrates real-world rule refinement and impact analysis
+
+
 
